@@ -1,13 +1,1 @@
-$blue: blue;
-
-.test {
-    display: block;
-}
-
-.test {
-    display: none;
-
-    &-button {
-        background-color: $blue;
-    }
-}
+@import "../../node_modules/bootstrap/scss/bootstrap.scss"
